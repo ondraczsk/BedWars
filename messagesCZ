@@ -1,0 +1,89 @@
+time:
+ zalush:
+  seconds:
+   0: "sekund"
+   1: "sekunda"
+   2: "sekundy"
+   3: "sekundy"
+   4: "sekundy"
+   5: "sekund"
+   6: "sekund"
+   7: "sekund"
+   8: "sekund"
+   9: "sekund"
+  minutes:
+   0: "minut"
+   1: "minuta"
+   2: "minuty"
+   3: "minuty"
+   4: "minuty"
+   5: "minut"
+   6: "minut"
+   7: "minut"
+   8: "minut"
+   9: "minut"
+  hours:
+   0: "hodin"
+   1: "hodina"
+   2: "hodiny"
+   3: "hodiny"
+   4: "hodiny"
+   5: "hodin"
+   6: "hodin"
+   7: "hodin"
+   8: "hodin"
+   9: "hodin"
+bedwars:
+ lobby:
+  select_map: "Dalsi mapa je  %s"
+  select_map_author: "Budeme hrat na  %s. autor mapy je  - %s"
+  start_at: "Hra zacne za %s"
+  for_play: "K ucasti ve hre si veberte team za jaky budete hrat."
+  for_start: "hlasovani  /bwvote"
+  for_vote_map: "hlasovani za mapu"
+  map_list: "seznam map:"
+ start:
+  info: "Hra zacala!"
+ stop:
+  loose: "Definitivne ste prohraly!"
+ team:
+  destroyed: "Postel teamu %s znicena!"
+  terminated: "Team %s znicen!"
+  win: "Team %s vitezi!"
+  joined: "%s prisel do teamu"
+  quited: "%s odesel z teamu"
+  partners: "Hraci ve tvem teamu: %s"
+ buy:
+  inv_full: "Mas plny invetar!"
+  no_money: "Nedostak meny"
+  shop: "Smenarnik"
+ spawner:
+  title:
+   b: "Bronz"
+   i: "Zelezo"
+   g: "Zlato"
+ sayall:
+  prefix: "*"
+  tosay: "Ve hre funguje tymovy chat. Pokud chcete rict zpravu pro vsechny, pak pred zpravou napiste %s."
+bw:
+ usage: "/bw"
+ description: "Teleportuje vas to do lobby"
+ permission: "Nemate pravo pouzivat tento prikaz"
+ nouse: "Zde muze pouzit tento prikaz!"
+bwvote:
+ usage: "/bwvote"
+ description: "Hlasujte pro start hry"
+ permission: "Nemate pravo pouzivat tonto prikaz"
+ used: "Uz si hlasoval!"
+ nouse: "Zde muzete hlasovat!"
+ notime: "Hra uz byla spustena!"
+bwstart:
+ usage: "/bwstart"
+ description: "Spustit hru"
+ permission: "Nemate pravo pouzivat tento prikaz"
+ notime: "Hra byla spustena!"
+bwstop:
+ usage: "/bwstop"
+ description: "Zastavit hru"
+ permission: "Nemate pravo pouzivat tento prikaz"
+ notime: "Hra byla ukoncena!"
