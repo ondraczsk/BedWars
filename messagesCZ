@@ -45,7 +45,7 @@ bedwars:
  start:
   info: "Hra zacala!"
  stop:
-  loose: "Definitivne ste prohraly!"
+  loose: "Definitivne jste prohraly!"
  team:
   destroyed: "Postel teamu %s znicena!"
   terminated: "Team %s znicen!"
